@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrabajoGrupal2</string>
+    <string name="escribe_tu_numero_de_cedula">Escribe tu numero de cedula</string>
+    <string name="escribe_tu_apellidos">Escribe tu apellidos</string>
+    <string name="escribe_tus_nombres">Escribe tus nombres</string>
+    <string name="guardar">Guardar</string>
+    <string name="ver_listado_de_datos">Ver listado de datos</string>
+</resources>
